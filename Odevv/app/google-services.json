@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349796105033",
+    "project_id": "odevv-6ff4b",
+    "storage_bucket": "odevv-6ff4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349796105033:android:ff58623d95c456858e7898",
+        "android_client_info": {
+          "package_name": "com.example.odevv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JXI0z-m9GOAJo4t6rtVb88rtaRV-YM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

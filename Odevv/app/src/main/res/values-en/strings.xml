@@ -1,0 +1,36 @@
+<resources>
+    <string name="Enter_values">Enter your test values</string>
+    <string name="last_values">Your last test values</string>
+    <string name="quit">Quit</string>
+    <string name="tst_values">TST value</string>
+    <string name="tstt_values">TSTT value</string>
+    <string name="madtsh_values">MADTSH value</string>
+    <string name="t3_values">T3 value</string>
+    <string name="diagnose">diagnose</string>
+    <string name="hipo">You are hypothyroid</string>
+    <string name="hiper">You are hyperthyroid</string>
+    <string name="normal">You are normal</string>
+    <string name="Thyroid_Diagnose">Thyroid Diagnose</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="login">LOG IN</string>
+    <string name="registersucces">Registered Successfully</string>
+    <string name="backmenu">Back To Menu</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male </string>
+    <string name="female">Female</string>
+    <string name="logup">Log Up</string>
+    <string name="Language">Language</string>
+    <string name="app_name">Thyroid Diagnose</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

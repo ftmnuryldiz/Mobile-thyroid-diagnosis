@@ -1,0 +1,36 @@
+<resources>
+    <string name="Enter_values">Test verilerini giriniz</string>
+    <string name="last_values">Son Test verileriniz</string>
+    <string name="quit">Çıkış Yap</string>
+    <string name="tst_values">TST değeri</string>
+    <string name="tstt_values">TSTT değeri</string>
+    <string name="madtsh_values">MADTSH değeri</string>
+    <string name="t3_values">T3 değeri</string>
+    <string name="diagnose">Teşhis</string>
+    <string name="Thyroid_Diagnose">Tiroit Teşhisi</string>
+    <string name="e_mail">e-posta</string>
+    <string name="hipo">Hipotiroitsin</string>
+    <string name="hiper">Hipertiroitsin</string>
+    <string name="normal">Normalsin</string>
+    <string name="password">şifre</string>
+    <string name="backmenu">Menüye geri dön</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male </string>
+    <string name="female">Female</string>
+    <string name="logup">Kayıt ol</string>
+    <string name="login">Giriş yap</string>
+    <string name="registersucces">Başarıyla Kayıt Olundu</string>
+    <string name="Language">Dil</string>
+    <string name="app_name">Tiroit Teşhisi</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
