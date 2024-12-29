@@ -1,2 +1,1 @@
-# projeee
- 
+The purpose of the mobile application is to detect thyroid disease by entering the relevant blood values and to identify the changes this disease causes in the blood values. This way, individuals with suspected or diagnosed thyroid disease will be able to monitor their relevant blood values.
